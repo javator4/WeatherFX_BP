@@ -2,1047 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="144e23fc-2db4-49ba-a8ef-f8ae256186c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../OpenGLTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGLTest/.idea/libraries/lwjgl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGLTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGLTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGLTest/OpenGLTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opengl/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opengl/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opengl/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hackerrank.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/Abstracts.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/Truck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/commons/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/commons/EngineStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstracts/src/pl/sda/abstracts/commons/GearLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/Algorytmy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy/src/pl/sda/algorytmy/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/Algorytmy_Zad01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/out/production/Algorytmy_Zad01/META-INF/Algorytmy_Zad01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/out/production/Algorytmy_Zad01/pl/sda/algorytmy/zad01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/src/pl/sda/algorytmy/zad01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad01/src/pl/sda/algorytmy/zad01/Tablice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/Algorytmy_Zad02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/out/production/Algorytmy_Zad02/META-INF/Algorytmy_Zad02.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/out/production/Algorytmy_Zad02/pl/sda/algorytmy/zad02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad02/src/pl/sda/algorytmy/zad02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/Algorytmy_Zad03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/out/production/Algorytmy_Zad03/pl/sda/algorytmy/zad03/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorytmy_Zad03/src/pl/sda/algorytmy/zad03/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/AutoBoxing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/out/production/AutoBoxing/pl/sda/autoboxing/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/out/production/AutoBoxing/pl/sda/autoboxing/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/src/pl/sda/autoboxing/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoBoxing/src/pl/sda/autoboxing/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/Computation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/out/production/Computation/pl/sda/computtion/Addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/out/production/Computation/pl/sda/computtion/Computation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/out/production/Computation/pl/sda/computtion/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/out/production/Computation/pl/sda/computtion/Multiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/src/pl/sda/computtion/Addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/src/pl/sda/computtion/Computation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/src/pl/sda/computtion/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computation/src/pl/sda/computtion/Multiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/Employee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/out/production/Employee/pl/sda/employee/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/out/production/Employee/pl/sda/employee/model/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/out/production/Employee/pl/sda/employee/model/Names.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/out/production/Employee/pl/sda/employee/model/Station.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/src/pl/sda/employee/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/src/pl/sda/employee/model/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/src/pl/sda/employee/model/Names.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee/src/pl/sda/employee/model/Station.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/Hello_World.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/out/production/Hello_World/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello_World/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/IFcz2_Zadanie01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/out/production/Petle_Zadanie01/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/out/production/Petle_Zadanie01/pl/sda/petle/Objetosc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/out/production/Petle_Zadanie01/pl/sda/petle/Pole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/src/pl/sda/ifcz2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/src/pl/sda/ifcz2/Objetosc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie01/src/pl/sda/ifcz2/Pole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/IFcz2_Zadanie02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/out/production/IFcz2_Zadanie02/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie02/src/pl/sda/ifcz2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/IFcz2_Zadanie03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/out/production/IFcz2_Zadanie03/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie03/src/pl/sda/ifcz2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/IFcz2_Zadanie04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/out/production/IFcz2_Zadanie04/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie04/src/pl/sda/ifcz2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/IFcz2_Zadanie05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/out/production/IFcz2_Zadanie05/pl/sda/ifcz2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie05/src/pl/sda/ifcz2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/IFcz2_Zadanie06.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/out/production/IFcz2_Zadanie06/pl/sda/ifcz2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IFcz2_Zadanie06/src/pl/sda/ifcz2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/Interfaces.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/EngineStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/GearLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/Truck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/pl/sda/interfaces/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/Interfaces/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/commons/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/commons/EngineStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/commons/GearLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/impl/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/src/pl/sda/interfaces/impl/Truck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/4.10.3/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/Java._Introduction1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (1)/Boolean-Quiz_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (2)/Boolean-Quiz_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz (3)/Boolean-Quiz_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz/Boolean-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz/Boolean-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Quiz/Boolean-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory (1)/Boolean-Theory_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory/Boolean-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory/Boolean-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Boolean/Theory/Boolean-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz (1)/Character-Quiz_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz (1)/Character-Quiz_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz (1)/Character-Quiz_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz/Character-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz/Character-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Quiz/Character-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Theory/Character-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Theory/Character-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Character/Theory/Character-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (1)/Comments-Programming_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (1)/Comments-Programming_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (1)/Comments-Programming_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (2)/Comments-Programming_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (2)/Comments-Programming_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (2)/Comments-Programming_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (3)/Comments-Programming_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (3)/Comments-Programming_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming (3)/Comments-Programming_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming/Comments-Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming/Comments-Programming_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Programming/Comments-Programming_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Quiz/Comments-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Quiz/Comments-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Quiz/Comments-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Theory/Comments-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Theory/Comments-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Comments/Theory/Comments-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (1)/Floating-point-Programming_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (2)/Floating-point-Programming_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming (3)/Floating-point-Programming_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming/Floating-point-Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming/Floating-point-Programming_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Programming/Floating-point-Programming_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Quiz/Floating-point-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Quiz/Floating-point-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Quiz/Floating-point-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Theory/Floating-point-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Theory/Floating-point-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Floating-point/Theory/Floating-point-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (1)/Integer-Programming_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (1)/Integer-Programming_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (1)/Integer-Programming_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (10)/Integer-Programming_(10).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (10)/Integer-Programming_(10)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (10)/Integer-Programming_(10)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (2)/Integer-Programming_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (2)/Integer-Programming_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (2)/Integer-Programming_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (3)/Integer-Programming_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (3)/Integer-Programming_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (3)/Integer-Programming_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (4)/Integer-Programming_(4).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (4)/Integer-Programming_(4)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (4)/Integer-Programming_(4)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (5)/Integer-Programming_(5).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (5)/Integer-Programming_(5)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (5)/Integer-Programming_(5)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (6)/Integer-Programming_(6).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (6)/Integer-Programming_(6)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (6)/Integer-Programming_(6)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (7)/Integer-Programming_(7).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (7)/Integer-Programming_(7)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (7)/Integer-Programming_(7)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (8)/Integer-Programming_(8).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (8)/Integer-Programming_(8)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (8)/Integer-Programming_(8)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (9)/Integer-Programming_(9).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (9)/Integer-Programming_(9)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming (9)/Integer-Programming_(9)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming/Integer-Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming/Integer-Programming_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Programming/Integer-Programming_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Theory/Integer-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Theory/Integer-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Integer/Theory/Integer-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (1)/Intro-Quiz_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (2)/Intro-Quiz_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (3)/Intro-Quiz_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (4)/Intro-Quiz_(4)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz (5)/Intro-Quiz_(5)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz/Intro-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz/Intro-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Quiz/Intro-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory (1)/Intro-Theory_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory (1)/Intro-Theory_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory (1)/Intro-Theory_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory/Intro-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory/Intro-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Intro/Theory/Intro-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (1)/Main_method-Programming_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (2)/Main_method-Programming_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming (3)/Main_method-Programming_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming/Main_method-Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming/Main_method-Programming_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Programming/Main_method-Programming_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (1)/Main_method-Quiz_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz (2)/Main_method-Quiz_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz/Main_method-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz/Main_method-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Quiz/Main_method-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory (1)/Main_method-Theory_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory/Main_method-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory/Main_method-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Main method/Theory/Main_method-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (1)/Math-Programming_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (1)/Math-Programming_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (1)/Math-Programming_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (2)/Math-Programming_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (2)/Math-Programming_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (2)/Math-Programming_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (3)/Math-Programming_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (3)/Math-Programming_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (3)/Math-Programming_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (4)/Math-Programming_(4).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (4)/Math-Programming_(4)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming (4)/Math-Programming_(4)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming/Math-Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming/Math-Programming_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Programming/Math-Programming_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory (1)/Math-Theory_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory (1)/Math-Theory_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory (1)/Math-Theory_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory/Math-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory/Math-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Math/Theory/Math-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Quiz/Type_Casting-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Theory/Type_Casting-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Theory/Type_Casting-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Type Casting/Theory/Type_Casting-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Programming/Variables_and_Types-Programming_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz (1)/Variables_and_Types-Quiz_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Quiz/Variables_and_Types-Quiz_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (1)/Variables_and_Types-Theory_(1)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (2)/Variables_and_Types-Theory_(2)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3)_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory (3)/Variables_and_Types-Theory_(3)_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/Variables and Types/Theory/Variables_and_Types-Theory_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/util/util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/util/util_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/modules/util/util_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/study_project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Boolean/Quiz (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Boolean/Quiz (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Boolean/Quiz (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Boolean/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Boolean/Theory (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Boolean/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Character/Quiz (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Character/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Character/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Comments/Programming (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Comments/Programming (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Comments/Programming (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Comments/Programming/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Comments/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Comments/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Floating-point/Programming (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Floating-point/Programming (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Floating-point/Programming (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Floating-point/Programming/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Floating-point/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Floating-point/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (10)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (4)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (5)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (6)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (7)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (8)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming (9)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Programming/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Integer/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Quiz (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Quiz (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Quiz (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Quiz (4)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Quiz (5)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Theory (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Intro/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Programming (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Programming (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Programming (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Programming/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Quiz (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Quiz (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Theory (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Main method/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Programming (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Programming (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Programming (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Programming (4)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Programming/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Theory (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Math/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Type Casting/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Type Casting/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Programming/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Quiz (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Quiz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Theory (1)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Theory (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Theory (3)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/Variables and Types/Theory/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java. Introduction1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/Klasy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/out/production/Klasy/pl/sda/klasy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/out/production/Klasy/pl/sda/klasy/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/src/pl/sda/klasy/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/src/pl/sda/klasy/Model/Adres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klasy/src/pl/sda/klasy/Model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/Lekarstwa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/out/production/Lekarstwa/pl/sda/lekarstwa/Lekarstwa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/out/production/Lekarstwa/pl/sda/lekarstwa/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/src/pl/sda/lekarstwa/Lekarstwa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lekarstwa/src/pl/sda/lekarstwa/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/Locale.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/out/production/Locale/pl/sda/locale/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/out/production/Locale/pl/sda/locale/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Locale/src/pl/sda/locale/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP_Projekt/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Projekt/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP_Projekt/out/production/OOP_Projekt/pl/sda/oop/menu/PlikMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Projekt/out/production/OOP_Projekt/pl/sda/oop/menu/PlikMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP_Projekt/src/pl/sda/oop/menu/PlikMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Projekt/src/pl/sda/oop/menu/PlikMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/Petle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/out/production/Petle/pl/sda/petle/Main$Fib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/out/production/Petle/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle/src/pl/sda/petle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/Petle_Zadania09-17.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/El.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Parzyste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Pierwsze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Piramida_Liczb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/ProstokatX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Suma_Parz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Tab_Mnozenia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/Trojkat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/out/production/Petle_Zadania09-17/pl/sda/petle/X_3Y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/El.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Parzyste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Pierwsze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Piramida_Liczb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/ProstokatX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Suma_Parz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Tab_Mnozenia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/Trojkat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadania09-17/src/pl/sda/petle/X_3Y.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/Petle_Zadanie01-08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/META-INF/Petle_Zadanie01-08.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Gwiazdki.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Iloczyn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/O_Piramidka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Odliczanie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Potega.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Prostokat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Przedzial_Liczb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/out/production/Petle_Zadanie01-08/pl/sda/petle/Suma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Gwiazdki.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Iloczyn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/O_Piramidka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Odliczanie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Potega.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Prostokat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Przedzial_Liczb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01-08/src/pl/sda/petle/Suma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Petle_Zadanie01/Petle_Zadanie01-08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/PixelWriter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/out/production/PixelWriter/ImageOperationApp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/out/production/PixelWriter/ImageOperationApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/out/production/PixelWriter/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/out/production/PixelWriter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/src/ImageOperationApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PixelWriter/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/Point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/out/production/Point/pl/sda/point/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/out/production/Point/pl/sda/point/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/src/pl/sda/point/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point/src/pl/sda/point/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/Powtorka.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/out/production/Powtorka/pl/sda/powtorka/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/out/production/Powtorka/pl/sda/powtorka/Powtorka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/src/pl/sda/powtorka/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Powtorka/src/pl/sda/powtorka/Powtorka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/dictionaries/bartsky.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/Programowanie1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/META-INF/Programowanie1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArrayGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArrayMedian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArraySort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArraySumPlus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/Djikstra/Djikstra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/Djikstra/Vertex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/Djikstra/VertexComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/LiczbyPierwsze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/NWD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/NWW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/ONP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/Silnia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/bst/BinarneDrzewoPrzeszukiwan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/algorytmy/bst/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/kolejka/ElemKolejka.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/kolejka/KolejkaLista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/lista/ElemLista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/lista/Lista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/stos_lista/Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/stos_lista/StosLista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/stos_lista/StosOutOfSizeExeption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/tablice/StosTablica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/out/production/Programowanie1/pl/sda/algorytmy/programowanie1/struktury_danych/tablice/Tablice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArrayGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArrayMedian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArraySort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/ZadaniaDomowe/ArraySumPlus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/Djikstra/Djikstra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/Djikstra/Vertex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/Djikstra/VertexComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/LiczbyPierwsze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/NWD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/NWW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/ONP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/Silnia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/bst/BinarneDrzewoPrzeszukiwan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/bst/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/sortowanie/MainSortowanie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/sortowanie/SortowanieBabelkowe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/sortowanie/SortowaniePrzezSelekcje.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/algorytmy/sortowanie/TabUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/kolejka/ElemKolejka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/kolejka/KolejkaLista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/lista/ElemLista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/lista/Lista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/stos_lista/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/stos_lista/StosLista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/stos_lista/StosOutOfSizeExeption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/tablice/StosTablica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie1/src/pl/sda/algorytmy/programowanie1/struktury_danych/tablice/Tablice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pusty_Projekt/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pusty_Projekt/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pusty_Projekt/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pusty_Projekt/Pusty_Projekt.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pusty_Projekt/src/pl/sda/instruncje/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pusty_Projekt/src/pl/sda/instruncje/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/Species.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/out/production/Species/pl/sda/species/Goldfish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/out/production/Species/pl/sda/species/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/out/production/Species/pl/sda/species/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/out/production/Species/pl/sda/species/abstracts/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/out/production/Species/pl/sda/species/abstracts/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/out/production/Species/pl/sda/species/abstracts/Mammal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/src/pl/sda/species/Goldfish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/src/pl/sda/species/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/src/pl/sda/species/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/src/pl/sda/species/abstracts/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/src/pl/sda/species/abstracts/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Species/src/pl/sda/species/abstracts/Mammal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/Statki.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/out/production/Statki/META-INF/Statki.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/out/production/Statki/pl/sda/statki/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/out/production/Statki/pl/sda/statki/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/out/production/Statki/pl/sda/statki/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/out/production/Statki/pl/sda/statki/Ship.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/out/production/Statki/pl/sda/statki/ShipPart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/src/pl/sda/statki/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/src/pl/sda/statki/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/src/pl/sda/statki/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/src/pl/sda/statki/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/src/pl/sda/statki/Ship.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki/src/pl/sda/statki/ShipPart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Statki_alfa0.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/Tablice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/out/production/Tablice/pl/sda/tablice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice/src/pl/sda/tablice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/Metody.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/out/production/Metody/pl/sda/obiekty/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/out/production/Metody/pl/sda/obiekty/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/out/production/Metody/pl/sda/obiekty/Zadanie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/src/pl/sda/obiekty/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/src/pl/sda/obiekty/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice2Wymiarowe/src/pl/sda/obiekty/Zadanie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/Tablice_I_Petle_Zadania_1-14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/out/production/Tablice_I_Petle_Zadania_1-14/pl/sda/tablice/Zadanie13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tablice_I_Petle_Zadania_1-14/src/pl/sda/tablice/Zadanie13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/Test_String01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/out/production/Test_String01/pl/codewars/test/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/out/production/Test_String01/pl/codewars/test/middle/MiddleCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/src/pl/codewars/test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test_String01/src/pl/codewars/test/middle/MiddleCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/User.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/out/production/User/pl/sda/user/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/out/production/User/pl/sda/user/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/out/production/User/pl/sda/user/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/src/pl/sda/user/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/src/pl/sda/user/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User/src/pl/sda/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/Zadania_IF.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/out/production/Zadania_IF/pl/sda/hello/Main$1TesterTypow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/out/production/Zadania_IF/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadania_IF/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/Zadanie01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/out/production/Zadanie01/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie01/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/Zadanie02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/out/production/Zadanie02/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie02/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/Zadanie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/Zadanie03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/out/production/Zadanie03/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie03/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/Zadanie04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/out/production/Zadanie04/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie04/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/Zadanie05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/out/production/Zadanie05/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie05/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/Zadanie06.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/out/production/Zadanie06/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie06/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/Zadanie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/Zadanie07.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/out/production/Zadanie07/pl/sda/hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie07/src/pl/sda/hello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/Zadanie08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/out/production/Zadanie08/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie08/src/pl/sda/petle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/Zadanie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/Zadanie09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/out/production/Zadanie09/pl/sda/petle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie09/src/pl/sda/petle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/Zadanie10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie10/src/pl/sda/zad10/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/Zadanie11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/out/production/Zadanie11/pl/sda/zad10/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie11/src/pl/sda/zad10/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/Zadanie12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/out/production/Zadanie12/pl/sda/tablice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie12/src/pl/sda/tablice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/Zadanie13.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/out/production/Zadanie13/pl/sda/tablice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie13/src/pl/sda/tablice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/Zadanie14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/out/production/Zadanie14/pl/sda/tablice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie14/src/pl/sda/tablice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/Zadanie15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/out/production/Zadanie15/pl/sda/tablice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie15/src/pl/sda/tablice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/Zamowienie.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/obiekt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/out/production/Zamowienie/pl/sda/zamowienie/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/out/production/Zamowienie/pl/sda/zamowienie/Pozycja.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/out/production/Zamowienie/pl/sda/zamowienie/Zamowienie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/src/pl/sda/zamowienie/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/src/pl/sda/zamowienie/Pozycja.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zamowienie/src/pl/sda/zamowienie/Zamowienie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/ZapisDoPliku.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/obiekt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/out/production/ZapisDoPliku/pl/sda/zapisdopliku/FileWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/out/production/ZapisDoPliku/pl/sda/zapisdopliku/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/out/production/ZapisDoPliku/pl/sda/zapisdopliku/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/out/production/ZapisDoPliku/pl/sda/zapisdopliku/exceptions/CustomException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/out/production/ZapisDoPliku/pl/sda/zapisdopliku/exceptions/CustomRuntimeException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/plik.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/src/pl/sda/zapisdopliku/FileWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/src/pl/sda/zapisdopliku/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/src/pl/sda/zapisdopliku/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/src/pl/sda/zapisdopliku/exceptions/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ZapisDoPliku/src/pl/sda/zapisdopliku/exceptions/CustomRuntimeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/binary.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/out/production/binary/pl/my/binary/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary/src/pl/my/binary/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/gitHelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/out/production/gitHelloWorld/pl/sda/gitHello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitHelloWorld/src/pl/sda/gitHello/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sda-tor4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VC_Hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VC_Hello.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Xcode/CLIntris/CLIntris.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Xcode/CLIntris/CLIntris.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Xcode/CLIntris/CLIntris.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Xcode/CLIntris/CLIntris.xcodeproj/project.xcworkspace/xcuserdata/bartsky.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Xcode/CLIntris/CLIntris.xcodeproj/xcuserdata/bartsky.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../vs_main.cpp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/weather/res/layout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1056,15 +17,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
               <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -1075,7 +36,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1102,29 +63,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Course" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="WeatherFX_XX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeatherFX_XX" type="462c0819:PsiDirectoryNode" />
+              <item name="WeatherFX_BP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherFX_BP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1153,21 +115,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24892704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info anchor="bottom" id="ConsoleMavenPlugin" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32970026" />
@@ -1175,22 +131,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven-2 Build" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="JOL" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven-2 Build" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="JOL" order="9" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WeatherFX_BP.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -1198,6 +161,9 @@
           <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherFX_BP.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
