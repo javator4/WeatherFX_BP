@@ -1,35 +1,24 @@
 package pl.sda.weather.controller;
 
-
 import com.sun.javafx.css.Declaration;
 import com.sun.javafx.css.Stylesheet;
 import com.sun.javafx.css.parser.CSSParser;
 import javafx.animation.*;
-import javafx.css.Styleable;
 import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
-import javafx.geometry.Insets;
 import javafx.scene.Node;
 import javafx.scene.control.*;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
-import javafx.scene.paint.Color;
-import javafx.scene.paint.Paint;
 import javafx.util.Duration;
-import lombok.Setter;
 import pl.sda.weather.model.JSONDataFaster;
 import pl.sda.weather.model.weather.Current;
 import pl.sda.weather.model.weather.Location;
 import pl.sda.weather.view.MapImage;
 import pl.sda.weather.model.Weather;
-import sun.java2d.cmm.ColorTransform;
-
-import javax.swing.text.Style;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.net.URL;
 import java.text.Normalizer;
 import java.util.*;
@@ -268,7 +257,7 @@ private AnchorPane anchorPane;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-        mapBuffer = new Image("WeatherFX.png");
+        mapBuffer = new Image("/pl/sda/weather/res/WeatherFX.png");
         mapViewSwap.setImage(mapBuffer);
         color1 = 0;
         anchorPane.setStyle(

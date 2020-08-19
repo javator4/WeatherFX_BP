@@ -19,7 +19,7 @@ public class App extends Application
     @Override
     public void start(Stage primaryStage) throws Exception {
 
-        Parent root = FXMLLoader.load(getClass().getResource("/layout.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("res/layout.fxml"));
         Scene s = new Scene(root);
         primaryStage.setTitle("Weather FX");
         primaryStage.setScene(s);
