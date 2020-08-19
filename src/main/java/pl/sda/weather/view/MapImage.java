@@ -15,7 +15,6 @@ import java.util.Scanner;
 
 public class MapImage implements Runnable{
     private MapboxStaticMap map;
-    private StaticMapCriteria staticMapCriteria;
     private Image mapImage;
     private String token;
     private int width;
@@ -42,7 +41,7 @@ public class MapImage implements Runnable{
         try {
             sr = new Scanner(f);
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.err.println("token.txt not included, go to mapbox.com");
         }
         if(sr.hasNextLine()) token = sr.nextLine();
         map = MapboxStaticMap.builder()

@@ -78,7 +78,7 @@ private AnchorPane anchorPane;
         try {
             sr = new Scanner(f);
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.err.println("key.txt not included go to weatherstack.com");
         }
 
         if(sr != null ? sr.hasNextLine() : false)
