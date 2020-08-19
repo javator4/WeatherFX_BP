@@ -1,4 +1,4 @@
-package pl.sda.weather.model;
+package pl.sda.weather.model.weather;
 
 import lombok.*;
 

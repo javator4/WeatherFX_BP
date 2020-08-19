@@ -2,6 +2,9 @@ package pl.sda.weather.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
+import pl.sda.weather.model.weather.Current;
+import pl.sda.weather.model.weather.Location;
+import pl.sda.weather.model.weather.Request;
 
 @Data
 @Getter

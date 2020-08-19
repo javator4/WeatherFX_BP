@@ -1,6 +1,6 @@
-.idea/
+.idea
 *.iml
-target/
+target
 key.txt
 data.json
 token.txt

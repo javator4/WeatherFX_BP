@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.TextField?>
-<?import javafx.scene.image.ImageView?>
-<?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.text.Font?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="525.0" prefWidth="928.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.sda.weather.controller.RootController">
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="525.0" prefWidth="928.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.sda.weather.controller.RootController">
    <children>
       <Button fx:id="button" layoutX="33.0" layoutY="463.0" mnemonicParsing="false" onAction="#getWeather" prefHeight="29.0" prefWidth="200.0" text="Get Weather">
          <font>
@@ -24,7 +22,7 @@
       <Label fx:id="lat" layoutX="92.0" layoutY="130.0" prefHeight="27.0" text="lat" />
       <Label layoutX="35.0" layoutY="160.0" prefHeight="27.0" text="Longitude:" underline="true" />
       <Label fx:id="lon" layoutX="103.0" layoutY="160.0" prefHeight="27.0" text="lon" />
-      <ImageView fx:id="mapView" fitHeight="467.0" fitWidth="640.0" layoutX="259.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="mapView" fitHeight="525.0" fitWidth="669.0" layoutX="259.0" pickOnBounds="true" preserveRatio="true" />
       <Label layoutX="35.0" layoutY="190.0" prefHeight="27.0" text="Is it day:" underline="true" />
       <Label fx:id="isDay" layoutX="89.0" layoutY="190.0" prefHeight="27.0" prefWidth="45.0" text="yes/no" />
       <Label layoutX="35.0" layoutY="220.0" prefHeight="27.0" text="Wind speed:" underline="true" />
@@ -33,5 +31,6 @@
       <Label fx:id="humidity" layoutX="96.0" layoutY="250.0" prefHeight="27.0" prefWidth="45.0" text="humid" />
       <Label layoutX="35.0" layoutY="280.0" prefHeight="27.0" text="Cloud cover:" underline="true" />
       <Label fx:id="cloudCover" layoutX="114.0" layoutY="280.0" prefHeight="27.0" prefWidth="45.0" text="Clouds" />
+      <ImageView fx:id="mapViewSwap" fitHeight="525.0" fitWidth="669.0" layoutX="259.0" pickOnBounds="true" preserveRatio="true" />
    </children>
 </AnchorPane>

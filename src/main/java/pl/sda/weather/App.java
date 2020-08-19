@@ -13,7 +13,7 @@ public class App extends Application
     public static void main( String[] args )
     {
         launch(args);
-        System.out.println( "App closed" );
+        System.out.println( "JavaFX closed" );
     }
 
     @Override
@@ -23,6 +23,7 @@ public class App extends Application
         Scene s = new Scene(root);
         primaryStage.setTitle("Weather FX");
         primaryStage.setScene(s);
+
         primaryStage.show();
 
     }
