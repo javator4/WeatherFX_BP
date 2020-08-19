@@ -5,6 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>pl.sda.weather</groupId>
+<<<<<<< HEAD
   <artifactId>WeatherFX</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>qui</name>
@@ -17,6 +18,15 @@
       <releases></releases>
     </repository>
   </repositories>
+=======
+  <artifactId>qui</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>qui</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -31,6 +41,7 @@
       <scope>test</scope>
     </dependency>
 
+<<<<<<< HEAD
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
@@ -51,11 +62,28 @@
       <version>0.0.20131108.vaadin1</version>
     </dependency>
 
+=======
+    <!-- https://mvnrepository.com/artifact/com.sothawo/mapjfx -->
+    <dependency>
+      <groupId>com.sothawo</groupId>
+      <artifactId>mapjfx</artifactId>
+      <version>2.7.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20180813</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <version>2.6</version>
     </dependency>
+<<<<<<< HEAD
     <!-- https://mvnrepository.com/artifact/com.mapbox.mapboxsdk/mapbox-sdk-services -->
     <dependency>
       <groupId>com.mapbox.mapboxsdk</groupId>
@@ -75,11 +103,30 @@
       <groupId>net.sourceforge.cssparser</groupId>
       <artifactId>cssparser</artifactId>
       <version>0.9.27</version>
+=======
+
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.8</version>
+      <scope>provided</scope>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.10.0.pr1</version>
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
     </dependency>
   </dependencies>
 
   <build>
+<<<<<<< HEAD
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+=======
+
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
       <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
         <plugin>
@@ -102,6 +149,7 @@
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
           <version>3.0.2</version>
+<<<<<<< HEAD
           <configuration>
 <classesDirectory>${project.build.outputDirectory}</classesDirectory>
 
@@ -119,6 +167,8 @@
               </archive>
 
           </configuration>
+=======
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
         </plugin>
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
@@ -139,6 +189,9 @@
         </plugin>
       </plugins>
 
+<<<<<<< HEAD
     </pluginManagement>
+=======
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
   </build>
 </project>

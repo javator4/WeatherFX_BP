@@ -1,5 +1,6 @@
 package pl.sda.weather.controller;
 
+<<<<<<< HEAD
 import com.sun.javafx.css.Declaration;
 import com.sun.javafx.css.Stylesheet;
 import com.sun.javafx.css.parser.CSSParser;
@@ -26,12 +27,25 @@ import java.util.*;
 public class RootController implements Initializable {
 @FXML
 private AnchorPane anchorPane;
+=======
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+import pl.sda.JSONDataFaster;
+import pl.sda.model.Weather;
+
+
+public class RootController {
+
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
     @FXML
     private TextField city;
     @FXML
     private Button button;
     @FXML
     private Label temp;
+<<<<<<< HEAD
     @FXML
     private Label showCity;
     @FXML
@@ -275,5 +289,19 @@ private AnchorPane anchorPane;
         temp.setVisible(false);
         windSpeed.setVisible(false);
         isDay.setVisible(false);
+=======
+
+    public void getWeather() {
+
+        JSONDataFaster weatherService = new JSONDataFaster(
+                "http://api.apixu.com/v1/current.json",
+                "e62328dd3789489597281354191307");
+
+        weatherService.getJSONData(city.getText());
+
+        Weather weather = weatherService.getWeather();
+
+        temp.setText(Float.toString(weather.getCurrent().getTemp_c()));
+>>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
     }
 }
