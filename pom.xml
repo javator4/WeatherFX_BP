@@ -150,6 +150,7 @@
           <artifactId>maven-jar-plugin</artifactId>
           <version>3.0.2</version>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <configuration>
 <classesDirectory>${project.build.outputDirectory}</classesDirectory>
 
@@ -169,6 +170,8 @@
           </configuration>
 =======
 >>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
+=======
+>>>>>>> update
         </plugin>
         <plugin>
           <artifactId>maven-install-plugin</artifactId>

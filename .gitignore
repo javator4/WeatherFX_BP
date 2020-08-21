@@ -5,9 +5,13 @@ target
 key.txt
 data.json
 token.txt
+<<<<<<< HEAD
 out
 =======
 .idea/
 *.iml
 target/
 >>>>>>> 7bc9f7f37b9166336a30117b48ac23da009fb132
+=======
+out/*
+>>>>>>> update

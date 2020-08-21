@@ -32,7 +32,11 @@ public class App extends Application
     public void start(Stage primaryStage) throws Exception {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         Parent root = FXMLLoader.load(getClass().getResource("res/layout.fxml"));
+=======
+        Parent root = FXMLLoader.load(getClass().getResource("/layout.fxml"));
+>>>>>>> update
         Scene s = new Scene(root);
         primaryStage.setTitle("Weather FX");
         primaryStage.setScene(s);
