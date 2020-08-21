@@ -19,18 +19,18 @@
       <Label fx:id="temp" layoutX="143.0" layoutY="100.0" prefHeight="27.0" prefWidth="103.0" text="Temp" />
       <Label fx:id="showCity" layoutX="70.0" layoutY="70.0" prefHeight="27.0" prefWidth="161.0" text="City name" />
       <Label layoutX="35.0" layoutY="130.0" prefHeight="27.0" text="Latitude:" />
-      <Label fx:id="lat" layoutX="92.0" layoutY="130.0" prefHeight="27.0" text="lat" />
+      <Label fx:id="lat" layoutX="92.0" layoutY="130.0" prefHeight="27.0" prefWidth="58.0" text="lat" />
       <Label layoutX="35.0" layoutY="160.0" prefHeight="27.0" text="Longitude:" underline="true" />
-      <Label fx:id="lon" layoutX="103.0" layoutY="160.0" prefHeight="27.0" text="lon" />
+      <Label fx:id="lon" layoutX="103.0" layoutY="160.0" prefHeight="27.0" prefWidth="68.0" text="lon" />
       <ImageView fx:id="mapView" fitHeight="525.0" fitWidth="669.0" layoutX="259.0" pickOnBounds="true" preserveRatio="true" />
       <Label layoutX="35.0" layoutY="190.0" prefHeight="27.0" text="Is it day:" underline="true" />
       <Label fx:id="isDay" layoutX="89.0" layoutY="190.0" prefHeight="27.0" prefWidth="45.0" text="yes/no" />
       <Label layoutX="35.0" layoutY="220.0" prefHeight="27.0" text="Wind speed:" underline="true" />
-      <Label fx:id="windSpeed" layoutX="113.0" layoutY="220.0" prefHeight="27.0" prefWidth="45.0" text="wind" />
+      <Label fx:id="windSpeed" layoutX="113.0" layoutY="220.0" prefHeight="27.0" prefWidth="103.0" text="wind" />
       <Label layoutX="35.0" layoutY="250.0" prefHeight="27.0" text="Humidity:" underline="true" />
-      <Label fx:id="humidity" layoutX="96.0" layoutY="250.0" prefHeight="27.0" prefWidth="45.0" text="humid" />
+      <Label fx:id="humidity" layoutX="96.0" layoutY="250.0" prefHeight="27.0" prefWidth="87.0" text="humid" />
       <Label layoutX="35.0" layoutY="280.0" prefHeight="27.0" text="Cloud cover:" underline="true" />
-      <Label fx:id="cloudCover" layoutX="114.0" layoutY="280.0" prefHeight="27.0" prefWidth="45.0" text="Clouds" />
+      <Label fx:id="cloudCover" layoutX="114.0" layoutY="280.0" prefHeight="27.0" prefWidth="87.0" text="Clouds" />
       <ImageView fx:id="mapViewSwap" fitHeight="525.0" fitWidth="669.0" layoutX="259.0" pickOnBounds="true" preserveRatio="true" />
    </children>
 </AnchorPane>

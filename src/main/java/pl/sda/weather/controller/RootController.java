@@ -228,12 +228,12 @@ private AnchorPane anchorPane;
 
     void getData(Location location, Current current) {
         showCity.setText(location.getName());
-        lat.setText(Float.toString(location.getLat()));
-        lon.setText(Float.toString(location.getLon()));
-        humidity.setText(Integer.toString(current.getHumidity()));
-        windSpeed.setText(Double.toString(current.getWind_speed()));
-        temp.setText(Float.toString(current.getTemperature()));
-        cloudCover.setText(Integer.toString(current.getCloudcover()));
+        lat.setText(Float.toString(location.getLat())+" N");
+        lon.setText(Float.toString(location.getLon())+ " W");
+        humidity.setText(Integer.toString(current.getHumidity()) + " %");
+        windSpeed.setText(Double.toString(current.getWind_speed())+" km/h");
+        temp.setText(Float.toString(current.getTemperature())+" C");
+        cloudCover.setText(Integer.toString(current.getCloudcover()) + " %");
         isDay.setText(current.getIs_day());
     }
 
@@ -257,7 +257,7 @@ private AnchorPane anchorPane;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-        mapBuffer = new Image("/pl/sda/weather/res/WeatherFX.png");
+        mapBuffer = new Image("/WeatherFX.png");
         mapViewSwap.setImage(mapBuffer);
         color1 = 0;
         anchorPane.setStyle(
